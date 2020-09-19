@@ -1,0 +1,18 @@
+#example1 {
+  font-size: 80px;
+  color: pink;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#example2{
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#example3{
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#example4{
+  text-shadow: 2px 2px 4px #000000;
+  color: red;
+}
