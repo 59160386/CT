@@ -33,89 +33,89 @@ This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
 
- body {
+body {
      background: #fff;
      overflow-x:hidden!important;
 
- }
+}
 
- html {
+html {
      margin: 0!important;
  }
 
- .show_0 {
+.show_0 {
      display: none!important;
  }
 
- .show_1 {
+.show_1 {
      display: block!important;
  }
 
- .bg_color1 {
+.bg_color1 {
      background: #f1f1f1!important;
  }
 
- .bg_color2 {
+.bg_color2 {
      background: #666!important;
  }
 
- .post {
+.post {
      background: #fff;
      padding: 40px;
      border-radius: 5px;
  }
 
- .format-image img {
+.format-image img {
      width: 100%;
  }
 
- .menu ul {
+.menu ul {
      list-style: none;
      margin: 0;
  }
 
- .menu ul ul {
+.menu ul ul {
      display: none;
  }
 
- .menu li {
+.menu li {
      display: inline;
      float: left;
      padding: 0 8px 0 4px;
  }
 
- .menu-item {}
+.menu-item {}
 
- .menu-item a {
+.menu-item a {
      text-decoration: none;
      color: #3eaf00;
  }
 
- .sub-menu li a {
+.sub-menu li a {
      margin: 0!important;
      width: 100%!important;
  }
 
- .menu-item a:hover {
+.menu-item a:hover {
      color: #666;
  }
 
- .demian-top-menu ul {
+.demian-top-menu ul {
      margin-top: 20px;
      position: absolute;
      right: 30px;
  }
 
- .demian-top-menu ul li {
+.demian-top-menu ul li {
      display: inline-block;
      margin-right: 30px;
  }
 
- .demian-top-menu ul li a {
+.demian-top-menu ul li a {
      font-size: 12px;
  }
 
- .demian-top-menu ul li a:hover {
+.demian-top-menu ul li a:hover {
      color: #222 !important;
      background-color: #FFF !important;
      border-radius: 0px;
@@ -127,27 +127,27 @@ Use it to make something cool, have fun, and share what you've learned with othe
      border-bottom: 5px solid #222;
  }
 
- .navbar-nav.navbar-right ul {
+.navbar-nav.navbar-right ul {
      margin: 45px 0 0;
  }
 
- .navbar-nav.navbar-right ul li {
+.navbar-nav.navbar-right ul li {
      list-style: none;
      display: inline-block;
      margin: 0 15px 0;
  }
 
- .navbar-nav.navbar-right ul li a {
+.navbar-nav.navbar-right ul li a {
      font-size: 13px;
      color: #ccc;
  }
 
- .navbar-nav.navbar-right ul li a:hover {}
+.navbar-nav.navbar-right ul li a:hover {}
  /* #wpadminbar{
      z-index: -1!important;
  }*/
 
- @media(max-width:767px) {
+@media(max-width:767px) {
      .navbar-nav.navbar-right ul {
          margin: 15px 0 20px;
      }
@@ -166,7 +166,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
      }
  }
 
- @media (max-width: 1200px) {
+@media (max-width: 1200px) {
      .navbar-nav.navbar-right ul {
          margin: 15px 0 20px;
      }
@@ -188,7 +188,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
  /*** CONTENT : POSTS AND PAGES ***/
  /* Entry and Page Titles */
 
- .sticky,
+.sticky,
  .tag-sticky-2 {
      background: #fff;
      border: 1px solid #eee;
@@ -206,22 +206,22 @@ Use it to make something cool, have fun, and share what you've learned with othe
      padding: 20px;
  }
 
- input#searchsubmit {
+input#searchsubmit {
      display: none;
  }
 
- label.screen-reader-text {
+label.screen-reader-text {
      display: none;
  }
 
- .image-page img {
+.image-page img {
      width: 100%;
      position: absolute;
      top: 0;
      left: 0;
  }
 
- .widget #searchform {
+.widget #searchform {
      max-width: 100%;
  }
 
