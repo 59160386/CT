@@ -68,3 +68,15 @@
 #test{
   display: inline;
 }
+
+#timer{
+  font-size: 100px;
+  display: block;
+  margin: auto;
+}
+
+.gg{
+  font-family: "Dancing Script";
+  border-radius: 50px;
+  border-color: red;
+}
