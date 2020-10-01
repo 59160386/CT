@@ -17,6 +17,13 @@
   text-shadow: 2px 2px 4px #000000;
 }
 
+.pull-text{
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
 .pull-left{
   font-family: "Roboto Slab";
   font-style: normal;
@@ -65,6 +72,12 @@
   text-shadow: 2px 2px 4px #000000;
 }
 
+.heet {
+  color:red;
+  font-size: 10px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
 #test{
   display: inline;
 }
@@ -79,4 +92,34 @@
   font-family: "Dancing Script";
   border-radius: 50px;
   border-color: red;
+}
+
+.showcase-img1{
+  background-image: url("../images/tar5.jpg");
+  background-size: cover;
+}
+
+.showcase-img2{
+  background-image: url("../images/tar6.jpg");
+  background-size: cover;
+}
+
+.showcase-img3{
+  background-image: url("../images/tar4.jpg");
+  background-size: cover;
+}
+
+.showcase-img4{
+  background-image: url("../images/tar7.jpg");
+  background-size: cover;
+}
+
+.showcase-img5{
+  background-image: url("../images/tar8.jpg");
+  background-size: cover;
+}
+
+
+.showcase-text{
+  padding: 5rem;
 }
