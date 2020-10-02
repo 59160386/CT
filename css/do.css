@@ -134,14 +134,12 @@
 header{
   background: url("../images/tar11.png");
   background-size: cover;
-  padding-top: 8rem;
+  padding-top: 4rem;
   padding-bottom: 8rem;
   height: 700px;
 }
 
 .gap{
-	padding-top: 5px;
-  padding-bottom: 5px;
 	width : 130px;
 	background: white;
   border-radius :10px;
@@ -152,4 +150,12 @@ header{
   font-family: "Roboto Slab";
   text-shadow: 2px 2px 4px #666666;
   box-shadow: 5px 10px 18px #888888;
+}
+
+.moji{
+  font-size: 40px;
+  color: white;
+  font-family: "Dancing Script";
+  text-shadow: 2px 2px 4px #ffffff;
+  margin-bottom: 50px;
 }
